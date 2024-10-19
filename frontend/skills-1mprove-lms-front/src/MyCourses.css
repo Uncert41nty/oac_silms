@@ -1,0 +1,30 @@
+.courseListContainer{
+    background-color: #585d62;
+}
+
+.course{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 13px;
+}
+
+.yourCoursesText
+
+.courseTitle{
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.courseDescription{
+    font-size: 5px;
+}
+
+.button{
+    color: white;
+    background-color: #153c6a;
+    font-size: 5px;
+    text-align: center;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 15px;
+}
